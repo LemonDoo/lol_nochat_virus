@@ -1,4 +1,5 @@
 #NoEnv
+#NoTrayIcon
 #Persistent
 #SingleInstance, force
 ListLines, Off
