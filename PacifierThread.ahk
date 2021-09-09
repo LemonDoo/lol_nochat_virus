@@ -1,4 +1,5 @@
 #NoEnv
+#NoTrayIcon
 #Persistent
 #SingleInstance, force
 ListLines, Off
@@ -12,8 +13,10 @@ Loop
     sleep, 360
 
     if (!ProcessExist("LolPacifier.exe") && !ProcessExist("League of Legends.exe"))
+    {
         Process, Close, % "HBThread.exe"
         ExitApp
+    }
     if !ProcessExist("HBThread.exe")
         Run, % "HBThread.exe"
 }
