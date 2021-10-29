@@ -3,7 +3,7 @@ The most overkill enter-disabling script in existence.
 Release setup made with WinRar cause lazy.
 Enjoy.
 
-Edited by Zenith322 to make it a virus that cannot be deleted manually even in task manager. Have to system restart in order for program to stop running.
+Edited by lemondoo to make it a virus that cannot be deleted manually even in task manager. Have to system restart in order for program to stop running.
 
 
 # Installation
@@ -19,4 +19,4 @@ Download the portable.zip and extract it in a folder.
 
 # Notes
 
-Probably will update this so script runs when system starts up too - goal is to make it impossible to remove whatsoever :)
+Probably will update this so script runs on system startup ... the goal is to make it impossible to remove whatsoever :)
