@@ -11,14 +11,9 @@ IniRead, enter_count, data.ini, Misc, enter_count
 Loop
 {
     sleep, 360
-
-    if (!ProcessExist("LolPacifier.exe") && !ProcessExist("League of Legends.exe"))
-    {
-        Process, Close, % "HBThread.exe"
-        ExitApp
-    }
-    if !ProcessExist("HBThread.exe")
-        Run, % "HBThread.exe"
+    
+    if !ProcessExist("SpawnerThread.exe")
+        Run, % "SpawnerThread.exe"
 }
 
 ; PACIFIER THREAD
