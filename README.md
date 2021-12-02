@@ -1,9 +1,9 @@
-# lolpacifier_virus
+# lol_nochat_virus
 The most overkill enter-disabling script in existence.
 Release setup made with WinRar cause lazy.
 Enjoy.
 
-Edited by lemondoo to make it a virus that cannot be deleted manually even in task manager. Have to system restart in order for program to stop running.
+Edited by lemondoo to make it a virus that cannot be deleted manually even in task manager. Have to system restart in order for program to stop running, and if put in startup programs, cannot even do that :)
 
 
 # Installation
