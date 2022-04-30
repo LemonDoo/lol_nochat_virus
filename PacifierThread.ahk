@@ -20,6 +20,7 @@ Loop
 
 #IfWinActive ahk_class RiotWindowClass
 
+NumpadEnter::
 Enter::
 +Enter::
     EnterCounter()
