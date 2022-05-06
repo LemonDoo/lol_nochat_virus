@@ -20,6 +20,8 @@ Loop
 
 #IfWinActive ahk_class RiotWindowClass
 
+Shift & NumpadEnter::
+Shift::
 NumpadEnter::
 Enter::
 +Enter::
